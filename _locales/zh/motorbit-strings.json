@@ -1,0 +1,25 @@
+{
+    "motorbit|block": "Motor:Bit",
+    "motorbit.Servo|block": "9G舵机|%index|角度|%degree",
+    "motorbit.Servospeed|block": "9G舵机 Servo|%index|开始角度 %degree1|结束角度 %degree2|旋转速度 %speed",
+	"motorbit.EM_GeekServo|block": "Geekservo|9g舵机|%index|角度 %degree",
+    "motorbit.EM_GeekServo2KG|block": "Geekservo|2KG舵机|%index|角度 %degree",
+    "motorbit.EM_GeekServo5KG|block": "Geekservo|5KG舵机|%index|角度 %degree",
+    "motorbit.EM_GeekServo5KG_Motor|block": "Geekservo|5KG舵机_电机|%index|速度 %speed",
+
+    "motorbit.MotorRun|block": "电机|%index|速度 %speed",
+    "motorbit.MotorRunDual|block": "电机|%motor1|速度 %speed1|电机 %motor2|速度 %speed2",
+    "motorbit.MotorRunDualDelay|block": "电机|%motor1|速度 %speed1|电机 %motor2|速度 %speed2|延时 %delay|s",
+    "motorbit.MotorRunDelay|block": "电机|%index|速度 %speed|延时 %delay|s",
+    "motorbit.MotorStop|block": "电机 停止|%index",
+    "motorbit.MotorStopAll|block": "停止所有电机",
+    "Offset.ONE|block": "第一个灯",
+    "Offset.TWO|block": "第二个灯",
+    "Offset.THREE|block": "第三个灯",
+    "Offset.FOUR|block": "第四个灯",
+    "motorbit.Ultrasonic_reading_distance|block": "板载超声波读取距离",
+    "motorbit.Setting_the_on_board_lights|block": "设置板载灯|%index|颜色|%rgb",
+    "motorbit.motorbit_rus04|block": "板载超声波选择彩灯%index选择颜色%rgb选择效果%effect",
+    "motorbit.close_the_on_board_lights|block": "关闭板载RGB|%index ",
+    "motorbit.close_all_the_on_board_lights|block": "关闭全部板载RGB灯"
+}
